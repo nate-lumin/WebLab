@@ -1,0 +1,16 @@
+merch { 
+	color: white; 
+	background-color: #5bdde3;; 
+	width: 100%; 
+} 
+heading { 
+	color: blue; 
+	font-size : 40px; 
+} 
+heading, name, cat, avail, exp, price { 
+	display : block; 
+} 
+name { 
+	font-size : 25px; 
+	font-weight : bold; 
+} 

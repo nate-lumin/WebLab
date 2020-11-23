@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/css" href="Merchandise.css"?> 
+<merch> 
+	<heading>Currently Available Products </heading> 
+	<item> 
+		<name>Name : Rose</name> 
+		<cat>Category : Flowers</cat> 
+		<avail>Available</avail> 
+		<exp>Expected Delivery : 3 - 4 business days</exp> 
+		<price> Price : 300</price> 
+	</item> 
+	<item> 
+		<name>Name : Blackforest Cake</name> 
+		<cat>Category : Confectionary</cat> 
+		<avail>Available</avail> 
+		<exp>Expected Delivery : 1 - 2 business days</exp> 
+		<price> Price : 700</price> 
+	</item> 	
+	<item> 
+		<name>Name : Fairy Lights (Blue)</name> 
+		<cat>Category : Decoration</cat> 
+		<avail>Out of stock</avail> 
+		<exp>Expected Delivery : N/A</exp> 
+		<price> Price : 100</price> 
+	</item> 	
+	<item> 
+		<name>Name : Carnations</name> 
+		<cat>Category : Flowers</cat> 
+		<avail>Available</avail> 
+		<exp>Expected Delivery : 3 - 4 business days</exp> 
+		<price> Price : 500</price> 
+	</item> 	
+</merch>
